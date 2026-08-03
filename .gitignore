@@ -1,0 +1,6 @@
+build/
+.tarmac-debug/
+.DS_Store
+tarmac-manifest.toml
+.luaurc
+.env
