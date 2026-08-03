@@ -25,7 +25,7 @@ if writefile and isfolder and makefolder and getcustomasset then
 		writefile(
 			`lucide-icons/{spritesheet}.png`,
 			game:HttpGet(
-				`https://gitlab.com/upio/lucide-roblox-direct/-/raw/main/spritesheets/{spritesheet}.png`
+				`https://raw.githubusercontent.com/mstudio45/lucide-roblox-direct/refs/heads/main/spritesheets/{spritesheet}.png`
 			)
 		)
 	end
