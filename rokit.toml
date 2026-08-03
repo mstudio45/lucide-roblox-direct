@@ -1,0 +1,3 @@
+[tools]
+tarmac = "rojo-rbx/tarmac@0.7.3"
+lune = "lune-org/lune@0.9.4"

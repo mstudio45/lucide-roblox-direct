@@ -1,0 +1,9 @@
+name = "lucide-roblox-direct"
+
+[[inputs]]
+glob = "build/outputs/formatted_icons/*.png"
+packable = true
+
+codegen = true
+codegen-path = "build/outputs/mappings.lua"
+codegen-base-path = "build/outputs"
